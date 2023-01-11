@@ -1,0 +1,27 @@
+body, html{
+    width: 100%;
+    height: 100%;
+}
+body{
+    position: relative;
+}
+.productDetail{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 50%;
+    background-color: rgb(49, 131, 49);
+    color: white;
+}
+.btnClose{
+    height: 30px;
+    width: 30px;
+    background-color: white;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    line-height: 20px;
+    border: none;
+    margin: 10px 0px;
+}
