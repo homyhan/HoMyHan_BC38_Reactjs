@@ -1,11 +1,13 @@
 
 import './App.css';
-import Home from './buoi33_components/Home';
+import MovieSeat from './Components/MovieSeat';
+
 
 function App() {
   return (
     <div>
-      <Home></Home>
+      <MovieSeat></MovieSeat>
+      
     </div>
   );
 }
